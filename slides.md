@@ -176,6 +176,7 @@ transition: slide-left
 
 - Finish group exercise 
 - Continue doing daily JS exercises on [FreeCodeCamp - JS Algorithms & Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+- Reminder: you have your first Career Live Session tomorrow
 
 
 <!--

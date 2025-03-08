@@ -131,7 +131,7 @@ transition: slide-left
 
 - Demonstrate `while` `do...while` loops 
 - Demonstrate `break` `continue`
-- Demonstrate `.forEach` `.map` `.filter` `.reduce` loops (use debugger to see what's happening)
+- Demonstrate `.forEach` `.map` `.filter` `.reduce` loops (demo arrow fn; use debugger to see what's happening)
 - Challenge: using JSON data from randomuser.me, map over 5 people objects to get an array of 5 first names
 - Challenge: Output a given array of people whose age is less than 50
 

@@ -20,7 +20,6 @@ mdc: true
 JavaScript Foundations
 - [ ] Code with control flow statements
 - [ ] Code iterative statements (`.map` `.filter` `.reduce`)
-- [ ] Functions
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
@@ -40,9 +39,11 @@ transition: slide-left
 # Recap
 (15 min) 
 
-- recall operations, expressions, conditionals
+- recall operations, expressions, conditionals, arrays
 - revisit why `null < 40` evaluates to `true`
 - revisit debugger when running a function
+- Practice targeting array element using randomuser.me
+- Play: Output the value using Speech Recognition
 
 <style>
 h1 {
@@ -118,6 +119,7 @@ class: text-left
 
 <!-- 
 - remember: take attendance
+- .forEach etc. - can define fn outside or inline
 -->
 
 ---
@@ -130,9 +132,8 @@ transition: slide-left
 - Demonstrate `while` `do...while` loops 
 - Demonstrate `break` `continue`
 - Demonstrate `.forEach` `.map` `.filter` `.reduce` loops (use debugger to see what's happening)
-- Challenge: Given an array of trivia questions, output one question as an h1 tag, upon clicking a `<button>`it shows the next trivia question.
-- Challenge: Output a given array of cities and filter out cities that begin with the letter 't'
-- `['Toronto', 'Vancouver', 'Trenton', 'Montreal']`
+- Challenge: using JSON data from randomuser.me, map over 5 people objects to get an array of 5 first names
+- Challenge: Output a given array of people whose age is less than 50
 
 <!--
 - READ: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while

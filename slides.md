@@ -119,7 +119,6 @@ class: text-left
 
 <!-- 
 - remember: take attendance
-- .forEach etc. - can define fn outside or inline
 -->
 
 ---
@@ -136,6 +135,7 @@ transition: slide-left
 - Challenge: Output a given array of people whose age is less than 50
 
 <!--
+- .forEach etc. - can define fn outside or inline
 - READ: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while
 - READ: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
 - READ: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/forEach
